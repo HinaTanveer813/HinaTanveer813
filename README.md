@@ -1,91 +1,97 @@
-<!-- Profile Header -->
-<h1 align="center" style="color:#E63946;">💻 Hina Tanveer</h1>
-<h3 align="center" style="color:#B0B0B0;">Aspiring AI/ML & Automation Engineer | Data Analyst</h3>
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-E63946?style=for-the-badge&logo=progress&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Automation-000000?style=for-the-badge&logo=github&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/Passion-Data--Driven%20Solutions-8B0000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=200&section=header&text=Hina%20Tanveer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
----
-
-## 🧑‍💻 About Me  
-
-🔴 **Aspiring AI/ML & Automation Engineer** with a strong passion for building data-powered solutions.  
-⚡ Experienced in **Data Analysis, Automation, and Intelligent Systems**.  
-📊 Exploring **Machine Learning, AI Agents, and Business Analytics** to solve real-world problems.  
-💡 Believer in *precision, innovation, and continuous growth*.  
+<h3 align="center" style="color:#E63946;">Aspiring AI/ML & Automation Engineer | Data Analyst</h3>
 
 ---
 
-## 🛠 Tech Stack  
+## 👩‍💻 About Me  
+
+- 🔴 **AI/ML & Automation Enthusiast** passionate about solving real-world challenges.  
+- 📊 Skilled in **Data Analysis, Machine Learning, and Intelligent Automation**.  
+- 💡 Exploring **AI Agents, LLMs, and Advanced Analytics**.  
+- 🚀 Believer in *innovation, precision, and impactful solutions*.  
+
+---
+
+## 🚀 Tech Arsenal  
 
 ### 🔹 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=E63946" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-E63946?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-9B2226?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-BB0A21?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-780000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-A4161A?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ### 🔹 Frameworks & Libraries  
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=E63946" />
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-BB0A21?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-9B2226?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-780000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-A4161A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-E63946?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ### 🔹 Tools & Platforms  
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=E63946" />
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=E63946" />
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-9B2226?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-A4161A?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-780000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-BB0A21?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-E63946?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-## 🚩 Featured Projects  
+## 📂 Featured Projects  
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **Python Automation Suite** | Scripts & tools to automate workflows and increase productivity. |
-| 📊 **Data Analytics Dashboards** | Interactive dashboards using Python, SQL & Power BI. |
-| 🧠 **ML Model Prototypes** | Predictive and classification ML models for real-world problems. |
+| 🤖 **Automation Suite** | Python-based automation tools to streamline repetitive workflows. |
+| 📊 **Analytics Dashboards** | Interactive dashboards with **Python, SQL & Power BI** for insights. |
+| 🧠 **ML Prototypes** | Predictive & classification ML models solving real-world use cases. |
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HinaTanveer&show_icons=true&theme=dark&title_color=E63946&icon_color=E63946&text_color=CCCCCC&bg_color=000000" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=HinaTanveer&theme=dark&background=000000&ring=E63946&fire=FF0000&currStreakLabel=E63946" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HinaTanveer&show_icons=true&theme=radical&title_color=E63946&icon_color=E63946&text_color=ffffff&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HinaTanveer&theme=radical&ring=E63946&fire=E63946&currStreakLabel=E63946&background=0D1117&dates=FFFFFF" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HinaTanveer&theme=radical&no-frame=true&margin-w=15&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HinaTanveer&bg_color=0D1117&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Current Focus  
 
-🔴 Advancing expertise in **AI/ML-driven automation**  
-📊 Building **data-driven insights and dashboards**  
-🤖 Experimenting with **AI Agents & LLMs**  
+- 🔥 Building **ML-powered automation systems**  
+- 📊 Enhancing skills in **Data Analytics & Visualization**  
+- 🤖 Researching **AI Agents & LLMs**  
 
 ---
 
-## 📫 Let’s Connect  
+## 🌐 Let’s Connect  
 
-<p>
-  <a href="mailto:hinatanveer@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
-  <a href="https://www.linkedin.com/in/hina-tanveer"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
-  <a href="https://github.com/HinaTanveer"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E63946" /></a>
+<p align="center">
+  <a href="mailto:hinatanveer@example.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hina-tanveer"><img src="https://img.shields.io/badge/LinkedIn-9B2226?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/HinaTanveer"><img src="https://img.shields.io/badge/GitHub-780000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-> 🖤 *“Data is the new oil, but insight is the new gold.”* 🔴
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=100&section=footer" />
+</p>
