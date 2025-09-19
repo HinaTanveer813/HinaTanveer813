@@ -1,21 +1,21 @@
 <!-- Profile Header -->
-<h1 align="center" style="color:#E63946;">🚀 Hi, I'm [Your Name]</h1>
-<h3 align="center" style="color:#D3D3D3;">Aspiring AI/ML & Automation Engineer | Data Analyst</h3>
+<h1 align="center" style="color:#E63946;">💻 Hina Tanveer</h1>
+<h3 align="center" style="color:#B0B0B0;">Aspiring AI/ML & Automation Engineer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-E63946?style=flat-square&logo=progress" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Automation-6A040F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Passion-Data--Driven%20Solutions-8B0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-E63946?style=for-the-badge&logo=progress&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Automation-000000?style=for-the-badge&logo=github&logoColor=E63946" />
+  <img src="https://img.shields.io/badge/Passion-Data--Driven%20Solutions-8B0000?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-🔴 AI/ML & **Automation Enthusiast** focused on building data-driven solutions.  
-⚡ Skilled in **data analysis, process automation, and intelligent systems**.  
-📈 Exploring **AI Agents, ML Models, and Advanced Analytics**.  
-💡 Believer in *learning by doing, building with purpose, and sharing knowledge*.  
+🔴 **Aspiring AI/ML & Automation Engineer** with a strong passion for building data-powered solutions.  
+⚡ Experienced in **Data Analysis, Automation, and Intelligent Systems**.  
+📊 Exploring **Machine Learning, AI Agents, and Business Analytics** to solve real-world problems.  
+💡 Believer in *precision, innovation, and continuous growth*.  
 
 ---
 
@@ -54,26 +54,26 @@
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **Automation with Python** | Scripts & tools for workflow automation and productivity. |
-| 📊 **Data Analytics Dashboards** | Interactive dashboards with Python, SQL & Power BI. |
-| 🧠 **ML Prototypes** | End-to-end ML models for prediction & classification tasks. |
+| 🤖 **Python Automation Suite** | Scripts & tools to automate workflows and increase productivity. |
+| 📊 **Data Analytics Dashboards** | Interactive dashboards using Python, SQL & Power BI. |
+| 🧠 **ML Model Prototypes** | Predictive and classification ML models for real-world problems. |
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUser]&show_icons=true&theme=dark&title_color=E63946&icon_color=E63946&text_color=D3D3D3&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HinaTanveer&show_icons=true&theme=dark&title_color=E63946&icon_color=E63946&text_color=CCCCCC&bg_color=000000" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=[YourGitHubUser]&theme=dark&background=000000&ring=E63946&fire=FF0000&currStreakLabel=E63946" />
+  <img src="https://streak-stats.demolab.com?user=HinaTanveer&theme=dark&background=000000&ring=E63946&fire=FF0000&currStreakLabel=E63946" />
 </p>
 
 ---
 
 ## 🎯 Current Focus  
 
-🔴 Mastering **AI/ML for real-world automation**  
-📊 Advancing **Data Analytics & Visualization**  
+🔴 Advancing expertise in **AI/ML-driven automation**  
+📊 Building **data-driven insights and dashboards**  
 🤖 Experimenting with **AI Agents & LLMs**  
 
 ---
@@ -81,9 +81,9 @@
 ## 📫 Let’s Connect  
 
 <p>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
-  <a href="https://github.com/[YourGitHubUser]"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E63946" /></a>
+  <a href="mailto:hinatanveer@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E63946" /></a>
+  <a href="https://www.linkedin.com/in/hina-tanveer"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E63946" /></a>
+  <a href="https://github.com/HinaTanveer"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E63946" /></a>
 </p>
 
 ---
